@@ -1,0 +1,6 @@
+[submodule "Articlegram-article-post-webproject-client"]
+	path = Articlegram-article-post-webproject-client
+	url = https://github.com/jishnuanilDev/Articlegram-article-post-webproject-client.git
+[submodule "Articlegram-article-posting-webproject-server"]
+	path = Articlegram-article-posting-webproject-server
+	url = https://github.com/jishnuanilDev/Articlegram-article-posting-webproject-server.git
